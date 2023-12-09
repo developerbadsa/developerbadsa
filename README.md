@@ -20,10 +20,9 @@ Check out my GitHub contribution streak and activity.
 
 ## GitHub Commit Status
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://img.shields.io/github/last-commit/developerbadsa/developerbadsa?style=flat-square" alt="GitHub Commit Status">
-</p> -->
-[![GitHub last commit](https://img.shields.io/badge/last%20commit-today-brightgreen?style=flat-square&logo=github)](https://github.com/developerbadsa)
+</p>
 
 
 
