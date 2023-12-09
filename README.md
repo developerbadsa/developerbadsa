@@ -23,7 +23,8 @@ Check out my GitHub contribution streak and activity.
 <!-- <p align="center">
   <img src="https://img.shields.io/github/last-commit/developerbadsa/developerbadsa?style=flat-square" alt="GitHub Commit Status">
 </p> -->
-![GitHub last commit](https://img.shields.io/github/last-commit/developerbadsa/developerbadsa?style=flat-square)
+[![GitHub last commit](https://img.shields.io/badge/last%20commit-today-brightgreen?style=flat-square&logo=github)](https://github.com/developerbadsa)
+
 
 
 Stay updated with my latest commits and contributions!
