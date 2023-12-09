@@ -17,7 +17,24 @@ I'm Rahim Badsa, a passionate MERN stack web developer primarily focused on fron
 </p>
 
 Check out my GitHub contribution streak and activity.
+I'm proficient in a variety of technologies, React, Node js, Mongodb and Express js
 
+## Projects
+
+- **Employee Managment:** This project is a comprehensive Employee Management System built with React, providing a user-friendly interface for managing employees' information, contracts, and work-related tasks.
+  - [Repository](https://github.com/developerbadsa/Employee-Management-client.git)
+  - [Live Link](https://glittering-frangipane-69d820.netlify.app/)
+  - Highlights: React, Talwind, MUI, JWT Authentication
+
+- **Hotel Booking:**Hotel Booking Web Application, a user-friendly platform designed to elevate your reservation experience. Here are the key features that make this project stand out.
+  - [Repository](https://github.com/developerbadsa/Hotel-Booking-App-Client.git)
+  - [Live Link](https://hotels-room-booking-project.web.app/)
+  - Highlights: React, Talwind, Firebase
+
+- **Brand Shop:**"Technology and Electronics Shop" project! This e-commerce platform is dedicated to technology and electronics products, designed to offer a user-friendly and feature-rich experience for both buyers and sellers.
+  - [Repository](https://github.com/developerbadsa/Brand-Shop-Electronics-and-techology-Client.git)
+  - [Live Link](https://technologyelectronics-f094b.web.app/)
+  - Highlights: React, Talwind, Firebase
 ## GitHub Commit Status
 
 <p align="center">
