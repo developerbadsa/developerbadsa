@@ -27,7 +27,7 @@ Check out my GitHub contribution streak and activity.
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,svg,tailwind,vite,vscode,&perline=3)](https://skillicons.dev)
 
 I'm proficient in a variety of technologies, React, Node js, Mongodb and Express js
 
